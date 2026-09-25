@@ -49,3 +49,5 @@ This application is split into two parts: a Node.js/Express `backend` and a Vite
    npm run dev
    ```
 5. Open your browser and go to `http://localhost:5173/` 
+
+### Designed by AKSHAY TELKHEDE.
